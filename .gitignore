@@ -95,3 +95,9 @@ modules.xml
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/webstorm,intellij+iml
+
+
+node_modules
+build
+*.log
+*.tmp
